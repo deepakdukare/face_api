@@ -1,6 +1,7 @@
-fastapi
-uvicorn
-python-multipart
-deepface
-opencv-python
-tensorflow-cpu
+fastapi==0.102.0
+uvicorn==0.24.0
+python-multipart==0.0.6
+deepface==0.0.91
+opencv-python==4.8.0.74
+tensorflow-cpu==2.20.0
+tf-keras
